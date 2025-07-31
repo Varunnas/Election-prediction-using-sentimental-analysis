@@ -1,6 +1,7 @@
 # Election-prediction-using-sentimental-analysis
-Project Structure
-1. miniproj3.ipynb
+# Project Structure
+# 1. miniproj3.ipynb
+
 Purpose: Data scraping, cleaning, and sentiment labelling
 
 Details:
